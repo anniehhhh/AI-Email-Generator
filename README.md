@@ -1,10 +1,4 @@
-Got it 👍 since you don’t want **Docker**, I’ll adjust the **README.md** so it’s only for **local installation (Flask + Streamlit)**.
 
-Here’s the cleaned-up version:
-
----
-
-```markdown
 # 🧠 AI Smart Email Reply Generator
 
 An AI-powered application that generates **smart, professional replies** to received emails.  
